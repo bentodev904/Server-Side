@@ -5,6 +5,7 @@ Abrir CMD:
     "cmd"
 
 Comandos CMD:
+
     Verificar versão do Node:
         node -v
 
